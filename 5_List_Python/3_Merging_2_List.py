@@ -8,5 +8,5 @@ print(list_normal)
 print(reversed_list)
 
 third_list= list_normal+reversed_list
-print(third_list)
+print("Merged Original and Reversed List:",third_list)
 
