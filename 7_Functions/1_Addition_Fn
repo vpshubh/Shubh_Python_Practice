@@ -5,3 +5,5 @@ x=int(input("Enter the number A:\n"))
 y=int(input("Enter the number B:\n"))
 z=add(x,y)
 print("Sum using the function is:",z)
+""" c= add(25,98)
+print (c) """
