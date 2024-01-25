@@ -1,0 +1,7 @@
+
+def wish(name, wish="Happy Birthday"):
+    """This function wishes the person with the provided message. If the
+    message is not provided, it defaults to "Happy Birthday" """
+    print("Hello", name + ', ' + wish)
+wish("Rohan")
+wish("Hardik", "Happy New Year")
