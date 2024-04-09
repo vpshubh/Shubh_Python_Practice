@@ -14,4 +14,6 @@ for digit_char in a_str[1:]:
         max_digit = digit
 
 # Print the result
-print(f"The largest digit in {a} is {max_digit}")
+print("The largest digit in",a," is ", max_digit)
+
+
